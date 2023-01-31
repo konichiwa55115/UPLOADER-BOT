@@ -1,3 +1,5 @@
+ffmpeg
+ffmpeg-python
 numpy
 yt-dlp
 Pillow
